@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: billing-svc-9813
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/billing-svc-9813
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
